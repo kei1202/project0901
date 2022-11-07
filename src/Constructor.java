@@ -1,3 +1,5 @@
+import newsample.Animal;
+
 class Animal {
     String name;
 

@@ -1,3 +1,4 @@
+import newsample.Sample;
 
 public class sample02 {
 
